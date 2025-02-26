@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Minimal Marketing</title><link>https://minimal-marketing.pages.dev/</link><description>Recent content on Minimal Marketing</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 26 Feb 2025 19:59:07 +0000</lastBuildDate><atom:link href="https://minimal-marketing.pages.dev/index.xml" rel="self" type="application/rss+xml"/><item><title>Jacaré Baitola</title><link>https://minimal-marketing.pages.dev/posts/jacare-baitola/</link><pubDate>Thu, 13 Feb 2025 22:00:06 +0000</pubDate><guid>https://minimal-marketing.pages.dev/posts/jacare-baitola/</guid><description>This is jatoré Baicala.</description></item><item><title>Jacaré Boiola</title><link>https://minimal-marketing.pages.dev/posts/jacare-boiola/</link><pubDate>Thu, 13 Feb 2025 22:00:06 +0000</pubDate><guid>https://minimal-marketing.pages.dev/posts/jacare-boiola/</guid><description>This is jatoré Baicala.</description></item><item><title>Contact</title><link>https://minimal-marketing.pages.dev/contact/</link><pubDate>Mon, 18 Dec 2023 18:20:23 +0700</pubDate><guid>https://minimal-marketing.pages.dev/contact/</guid><description>&lt;h1 id="tell-us-about-your-plans">Tell us about your plans&lt;/h1>
+&lt;form action="#" method="POST" class="">
+ &lt;div class="">
+ &lt;div class="grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2">
+ &lt;div>
+ &lt;label for="first-name" class="block text-sm font-semibold leading-6 text-white">First name&lt;/label>
+ &lt;div class="mt-2.5">
+ &lt;input type="text" name="first-name" id="first-name" autocomplete="given-name" class="block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6">
+ &lt;/div>
+ &lt;/div>
+ &lt;div>
+ &lt;label for="last-name" class="block text-sm font-semibold leading-6 text-white">Last name&lt;/label>
+ &lt;div class="mt-2.5">
+ &lt;input type="text" name="last-name" id="last-name" autocomplete="family-name" class="block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="sm:col-span-2">
+ &lt;label for="email" class="block text-sm font-semibold leading-6 text-white">Email&lt;/label>
+ &lt;div class="mt-2.5">
+ &lt;input type="email" name="email" id="email" autocomplete="email" class="block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="sm:col-span-2">
+ &lt;label for="phone-number" class="block text-sm font-semibold leading-6 text-white">Phone number&lt;/label>
+ &lt;div class="mt-2.5">
+ &lt;input type="tel" name="phone-number" id="phone-number" autocomplete="tel" class="block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6">
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="sm:col-span-2">
+ &lt;label for="message" class="block text-sm font-semibold leading-6 text-white">Message&lt;/label>
+ &lt;div class="mt-2.5">
+ &lt;textarea name="message" id="message" rows="4" class="block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6">&lt;/textarea>
+ &lt;/div>
+ &lt;/div>
+ &lt;/div>
+ &lt;div class="mt-8 flex justify-end">
+ &lt;button type="submit" class="rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Send message&lt;/button>
+ &lt;/div>
+ &lt;/div>
+&lt;/form></description></item><item><title>About</title><link>https://minimal-marketing.pages.dev/about/</link><pubDate>Mon, 18 Dec 2023 18:18:04 +0700</pubDate><guid>https://minimal-marketing.pages.dev/about/</guid><description>&lt;h1 id="advocating-for-better-work-ethics">Advocating for better work ethics&lt;/h1>
+&lt;blockquote>
+&lt;p>lorem&lt;/p>&lt;/blockquote>
+&lt;h2 id="title">Title&lt;/h2>
+&lt;p>Some text&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>list&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input disabled="" type="checkbox"> list&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;input checked="" disabled="" type="checkbox"> list&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;pre tabindex="0">&lt;code>Text
+&lt;/code>&lt;/pre>&lt;p>&lt;strong>Hello&lt;/strong>&lt;/p>
+&lt;hr>
+&lt;h3 id="title-1">Title&lt;/h3>
+&lt;h3 id="title-2">Title&lt;/h3></description></item><item><title>Offer</title><link>https://minimal-marketing.pages.dev/offer/</link><pubDate>Mon, 18 Dec 2023 18:16:45 +0700</pubDate><guid>https://minimal-marketing.pages.dev/offer/</guid><description>This is a summary.</description></item></channel></rss>
