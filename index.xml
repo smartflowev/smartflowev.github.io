@@ -1,53 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SmartFlowEV</title>
-    <link>https://smartflowev.github.io/</link>
-    <description>Recent content on SmartFlowEV</description>
+    <title></title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on </description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 14:59:33 +0000</lastBuildDate>
-    <atom:link href="https://smartflowev.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Feb 2025 17:44:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arroz</title>
-      <link>https://smartflowev.github.io/posts/arroz/</link>
-      <pubDate>Thu, 27 Feb 2025 14:57:27 +0000</pubDate>
-      <guid>https://smartflowev.github.io/posts/arroz/</guid>
-      <description>This is a summary.</description>
-    </item>
-    <item>
-      <title>Jacaré Baitola</title>
-      <link>https://smartflowev.github.io/posts/jacare-baitola/</link>
+      <title>Example</title>
+      <link>http://localhost:1313/posts/example/</link>
       <pubDate>Thu, 13 Feb 2025 22:00:06 +0000</pubDate>
-      <guid>https://smartflowev.github.io/posts/jacare-baitola/</guid>
-      <description>This is jatoré Baicala.</description>
-    </item>
-    <item>
-      <title>Jacaré Boiola</title>
-      <link>https://smartflowev.github.io/posts/jacare-boiola/</link>
-      <pubDate>Thu, 13 Feb 2025 22:00:06 +0000</pubDate>
-      <guid>https://smartflowev.github.io/posts/jacare-boiola/</guid>
-      <description>This is jatoré Baicala.</description>
+      <guid>http://localhost:1313/posts/example/</guid>
+      <description>This is an example.</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://smartflowev.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 18 Dec 2023 18:20:23 +0700</pubDate>
-      <guid>https://smartflowev.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;h1 id=&#34;tell-us-about-your-plans&#34;&gt;Tell us about your plans&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://smartflowev.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 18 Dec 2023 18:18:04 +0700</pubDate>
-      <guid>https://smartflowev.github.io/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h1 id=&#34;advocating-for-better-work-ethics&#34;&gt;Advocating for better work ethics&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;lorem&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;&#xA;&lt;p&gt;Some text&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;list&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; list&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; list&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Text&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Hello&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;title-1&#34;&gt;Title&lt;/h3&gt;&#xA;&lt;h3 id=&#34;title-2&#34;&gt;Title&lt;/h3&gt;</description>
     </item>
     <item>
       <title>About Our Project</title>
-      <link>https://smartflowev.github.io/learn-more/</link>
+      <link>http://localhost:1313/easteregg/</link>
       <pubDate>Mon, 18 Dec 2023 18:16:45 +0700</pubDate>
-      <guid>https://smartflowev.github.io/learn-more/</guid>
+      <guid>http://localhost:1313/easteregg/</guid>
+      <description>This is a summary.</description>
+    </item>
+    <item>
+      <title>About Our Project</title>
+      <link>http://localhost:1313/learn-more/</link>
+      <pubDate>Mon, 18 Dec 2023 18:16:45 +0700</pubDate>
+      <guid>http://localhost:1313/learn-more/</guid>
       <description>This is a summary.</description>
     </item>
   </channel>
