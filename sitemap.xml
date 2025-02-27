@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://smartflowev.github.io/posts/arroz/</loc>
+    <lastmod>2025-02-27T14:57:27+00:00</lastmod>
+  </url><url>
+    <loc>https://smartflowev.github.io/posts/</loc>
+    <lastmod>2025-02-27T14:57:27+00:00</lastmod>
+  </url><url>
+    <loc>https://smartflowev.github.io/</loc>
+    <lastmod>2025-02-27T14:57:27+00:00</lastmod>
+  </url><url>
     <loc>https://smartflowev.github.io/posts/jacare-baitola/</loc>
     <lastmod>2025-02-26T21:30:40+00:00</lastmod>
   </url><url>
     <loc>https://smartflowev.github.io/posts/jacare-boiola/</loc>
-    <lastmod>2025-02-26T21:30:40+00:00</lastmod>
-  </url><url>
-    <loc>https://smartflowev.github.io/posts/</loc>
-    <lastmod>2025-02-26T21:30:40+00:00</lastmod>
-  </url><url>
-    <loc>https://smartflowev.github.io/</loc>
     <lastmod>2025-02-26T21:30:40+00:00</lastmod>
   </url><url>
     <loc>https://smartflowev.github.io/contact/</loc>
