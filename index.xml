@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SmartFlowEB</title>
+    <title>SmartFlowEV</title>
     <link>https://smartflowev.github.io/</link>
-    <description>Recent content on SmartFlowEB</description>
+    <description>Recent content on SmartFlowEV</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Feb 2025 14:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 14:59:33 +0000</lastBuildDate>
     <atom:link href="https://smartflowev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Arroz</title>
@@ -34,7 +34,7 @@
       <link>https://smartflowev.github.io/contact/</link>
       <pubDate>Mon, 18 Dec 2023 18:20:23 +0700</pubDate>
       <guid>https://smartflowev.github.io/contact/</guid>
-      <description>&lt;h1 id=&#34;tell-us-about-your-plans&#34;&gt;Tell us about your plans&lt;/h1&gt;&#xA;&lt;form action=&#34;#&#34; method=&#34;POST&#34; class=&#34;&#34;&gt;&#xA;  &lt;div class=&#34;&#34;&gt;&#xA;    &lt;div class=&#34;grid grid-cols-1 gap-x-8 gap-y-6 sm:grid-cols-2&#34;&gt;&#xA;      &lt;div&gt;&#xA;        &lt;label for=&#34;first-name&#34; class=&#34;block text-sm font-semibold leading-6 text-white&#34;&gt;First name&lt;/label&gt;&#xA;        &lt;div class=&#34;mt-2.5&#34;&gt;&#xA;          &lt;input type=&#34;text&#34; name=&#34;first-name&#34; id=&#34;first-name&#34; autocomplete=&#34;given-name&#34; class=&#34;block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6&#34;&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div&gt;&#xA;        &lt;label for=&#34;last-name&#34; class=&#34;block text-sm font-semibold leading-6 text-white&#34;&gt;Last name&lt;/label&gt;&#xA;        &lt;div class=&#34;mt-2.5&#34;&gt;&#xA;          &lt;input type=&#34;text&#34; name=&#34;last-name&#34; id=&#34;last-name&#34; autocomplete=&#34;family-name&#34; class=&#34;block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6&#34;&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;sm:col-span-2&#34;&gt;&#xA;        &lt;label for=&#34;email&#34; class=&#34;block text-sm font-semibold leading-6 text-white&#34;&gt;Email&lt;/label&gt;&#xA;        &lt;div class=&#34;mt-2.5&#34;&gt;&#xA;          &lt;input type=&#34;email&#34; name=&#34;email&#34; id=&#34;email&#34; autocomplete=&#34;email&#34; class=&#34;block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6&#34;&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;sm:col-span-2&#34;&gt;&#xA;        &lt;label for=&#34;phone-number&#34; class=&#34;block text-sm font-semibold leading-6 text-white&#34;&gt;Phone number&lt;/label&gt;&#xA;        &lt;div class=&#34;mt-2.5&#34;&gt;&#xA;          &lt;input type=&#34;tel&#34; name=&#34;phone-number&#34; id=&#34;phone-number&#34; autocomplete=&#34;tel&#34; class=&#34;block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6&#34;&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;      &lt;div class=&#34;sm:col-span-2&#34;&gt;&#xA;        &lt;label for=&#34;message&#34; class=&#34;block text-sm font-semibold leading-6 text-white&#34;&gt;Message&lt;/label&gt;&#xA;        &lt;div class=&#34;mt-2.5&#34;&gt;&#xA;          &lt;textarea name=&#34;message&#34; id=&#34;message&#34; rows=&#34;4&#34; class=&#34;block w-full rounded-md border-0 bg-white/5 px-3.5 py-2 text-white shadow-sm ring-1 ring-inset ring-white/10 focus:ring-2 focus:ring-inset focus:ring-indigo-500 sm:text-sm sm:leading-6&#34;&gt;&lt;/textarea&gt;&#xA;        &lt;/div&gt;&#xA;      &lt;/div&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;mt-8 flex justify-end&#34;&gt;&#xA;      &lt;button type=&#34;submit&#34; class=&#34;rounded-md bg-indigo-500 px-3.5 py-2.5 text-center text-sm font-semibold text-white shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500&#34;&gt;Send message&lt;/button&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/form&gt;</description>
+      <description>&lt;h1 id=&#34;tell-us-about-your-plans&#34;&gt;Tell us about your plans&lt;/h1&gt;</description>
     </item>
     <item>
       <title>About</title>
@@ -44,10 +44,10 @@
       <description>&lt;h1 id=&#34;advocating-for-better-work-ethics&#34;&gt;Advocating for better work ethics&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;lorem&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;title&#34;&gt;Title&lt;/h2&gt;&#xA;&lt;p&gt;Some text&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;list&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; list&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;input checked=&#34;&#34; disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; list&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Text&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;Hello&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;title-1&#34;&gt;Title&lt;/h3&gt;&#xA;&lt;h3 id=&#34;title-2&#34;&gt;Title&lt;/h3&gt;</description>
     </item>
     <item>
-      <title>Offer</title>
-      <link>https://smartflowev.github.io/offer/</link>
+      <title>About Our Project</title>
+      <link>https://smartflowev.github.io/learn-more/</link>
       <pubDate>Mon, 18 Dec 2023 18:16:45 +0700</pubDate>
-      <guid>https://smartflowev.github.io/offer/</guid>
+      <guid>https://smartflowev.github.io/learn-more/</guid>
       <description>This is a summary.</description>
     </item>
   </channel>
