@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SmartFlowEV</title>
-    <link>https://smartflowev.github.io/en/posts/</link>
+    <link>http://localhost:37263/en/posts/</link>
     <description>Recent content in Posts on SmartFlowEV</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 27 Feb 2025 22:14:48 +0000</lastBuildDate>
-    <atom:link href="https://smartflowev.github.io/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37263/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
-      <link>https://smartflowev.github.io/en/posts/example/</link>
+      <link>http://localhost:37263/en/posts/example/</link>
       <pubDate>Thu, 13 Feb 2025 22:00:06 +0000</pubDate>
-      <guid>https://smartflowev.github.io/en/posts/example/</guid>
+      <guid>http://localhost:37263/en/posts/example/</guid>
       <description>This is an example.</description>
     </item>
   </channel>
