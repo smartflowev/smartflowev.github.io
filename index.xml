@@ -6,7 +6,7 @@
     <description>Recent content on SmartFlowEV</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Feb 2025 22:14:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 16:55:00 +0000</lastBuildDate>
     <atom:link href="https://smartflowev.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Example</title>
@@ -42,6 +42,13 @@
       <pubDate>Mon, 18 Dec 2023 18:16:45 +0700</pubDate>
       <guid>https://smartflowev.github.io/learn-more/</guid>
       <description>This is a summary.</description>
+    </item>
+    <item>
+      <title>Pitch Deck</title>
+      <link>https://smartflowev.github.io/pitch-deck/</link>
+      <pubDate>Mon, 18 Dec 2023 18:16:45 +0700</pubDate>
+      <guid>https://smartflowev.github.io/pitch-deck/</guid>
+      <description>&lt;h1 id=&#34;arroz&#34;&gt;arroz&lt;/h1&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./pitch-deck-rev.pdf&#34;&gt;pdfff&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
